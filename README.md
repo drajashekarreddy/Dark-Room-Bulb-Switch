@@ -49,12 +49,13 @@ That's it — click the switch to toggle the light.
 - **JavaScript (Vanilla)** – toggle logic and DOM manipulation
 
 ## 📁 Project Structure
+```
 dark-room-bulb-switch/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 
 ## License
 
