@@ -10,7 +10,7 @@ A minimalist pendant lamp simulation with a realistic glow effect and an interac
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## 🌟 Overview
+## Overview
 
 This project simulates a pendant lamp hanging in a dark room. Clicking the toggle switch turns the bulb on and off, complete with a soft warm glow that spreads into the room — mimicking a real incandescent light.
 
@@ -56,11 +56,11 @@ dark-room-bulb-switch/
 └── README.md
 
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License — feel free to use and modify it.
 
-## 🙋 Author
+## Author
 
-**Your Name**
+**Your Name:**
  **D.Rajashekar Reddy**
